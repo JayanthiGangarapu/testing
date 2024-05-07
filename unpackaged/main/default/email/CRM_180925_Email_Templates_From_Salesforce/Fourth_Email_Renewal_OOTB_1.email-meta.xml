@@ -5,7 +5,7 @@
     <encodingKey>UTF-8</encodingKey>
     <name>Fourth Email, Renewal</name>
     <style>none</style>
-    <subject>Renewal is upon us - let&#39;s talk soon</subject>
+    <subject>Renewal is upon us - let&apos;s talk soon</subject>
     <type>custom</type>
     <uiType>SFX</uiType>
 </EmailTemplate>
